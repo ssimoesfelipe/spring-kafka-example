@@ -1,4 +1,4 @@
-package com.example.kafkaexample;
+package com.example.kafkaexample.model;
 
 public class MessageRequest {
 
